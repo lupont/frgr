@@ -1,0 +1,540 @@
+mkdir thisisadirectory1
+creat thisisafile1
+mkdir thisdirectoryhasanincrediblylongnametotesttheprograms1
+creat file1
+mkdir thisisadirectory2
+creat thisisafile2
+mkdir thisdirectoryhasanincrediblylongnametotesttheprograms2
+creat file2
+mkdir thisisadirectory3
+creat thisisafile3
+mkdir thisdirectoryhasanincrediblylongnametotesttheprograms3
+creat file3
+mkdir thisisadirectory4
+creat thisisafile4
+mkdir thisdirectoryhasanincrediblylongnametotesttheprograms4
+creat file4
+mkdir thisisadirectory5
+creat thisisafile5
+mkdir thisdirectoryhasanincrediblylongnametotesttheprograms5
+creat file5
+mkdir thisisadirectory6
+creat thisisafile6
+mkdir thisdirectoryhasanincrediblylongnametotesttheprograms6
+creat file6
+mkdir thisisadirectory7
+creat thisisafile7
+mkdir thisdirectoryhasanincrediblylongnametotesttheprograms7
+creat file7
+mkdir thisisadirectory8
+creat thisisafile8
+mkdir thisdirectoryhasanincrediblylongnametotesttheprograms8
+creat file8
+mkdir thisisadirectory9
+creat thisisafile9
+mkdir thisdirectoryhasanincrediblylongnametotesttheprograms9
+creat file9
+mkdir thisisadirectory10
+creat thisisafile10
+mkdir thisdirectoryhasanincrediblylongnametotesttheprograms10
+creat file10
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./
+ls
+ls .
+ls ./.././..
+ls /
+ls /./

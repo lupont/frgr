@@ -1,0 +1,288 @@
+Benchmark bm1: nafs
+
+real	0m24.879s
+user	0m8.198s
+sys	0m9.359s
+
+Benchmark bm1: rufs
+
+real	0m28.701s
+user	0m10.545s
+sys	0m10.214s
+
+Benchmark bm10: nafs
+
+real	0m38.062s
+user	0m15.449s
+sys	0m14.315s
+
+Benchmark bm10: rufs
+
+real	0m40.269s
+user	0m18.007s
+sys	0m13.961s
+
+Benchmark bm11: nafs
+
+real	0m21.078s
+user	0m6.908s
+sys	0m7.044s
+
+Benchmark bm11: rufs
+
+real	0m23.013s
+user	0m8.413s
+sys	0m7.353s
+
+Benchmark bm12: nafs
+
+real	0m24.126s
+user	0m8.368s
+sys	0m8.426s
+
+Benchmark bm12: rufs
+
+real	0m26.210s
+user	0m10.665s
+sys	0m8.119s
+
+Benchmark bm13: nafs
+
+real	0m24.363s
+user	0m8.892s
+sys	0m8.071s
+
+Benchmark bm13: rufs
+
+real	0m27.110s
+user	0m11.454s
+sys	0m8.036s
+
+Benchmark bm14: nafs
+
+real	0m23.324s
+user	0m8.129s
+sys	0m7.892s
+
+Benchmark bm14: rufs
+
+real	0m32.354s
+user	0m16.696s
+sys	0m7.871s
+
+Benchmark bm15: nafs
+
+real	0m35.468s
+user	0m14.785s
+sys	0m12.675s
+
+Benchmark bm15: rufs
+
+real	0m40.179s
+user	0m17.942s
+sys	0m13.902s
+
+Benchmark bm16: nafs
+
+real	0m19.834s
+user	0m6.382s
+sys	0m6.481s
+
+Benchmark bm16: rufs
+
+real	0m20.720s
+user	0m6.912s
+sys	0m6.631s
+
+Benchmark bm17: nafs
+
+real	0m27.505s
+user	0m10.436s
+sys	0m9.549s
+
+Benchmark bm17: rufs
+
+real	0m29.640s
+user	0m11.826s
+sys	0m10.064s
+
+Benchmark bm18: nafs
+
+real	0m53.298s
+user	0m23.287s
+sys	0m20.591s
+
+Benchmark bm18: rufs
+
+real	1m0.800s
+user	0m29.621s
+sys	0m21.370s
+
+Benchmark bm19: nafs
+
+real	0m22.143s
+user	0m7.453s
+sys	0m7.503s
+
+Benchmark bm19: rufs
+
+real	0m23.249s
+user	0m7.834s
+sys	0m8.076s
+
+Benchmark bm2: nafs
+
+real	0m28.394s
+user	0m10.408s
+sys	0m10.367s
+
+Benchmark bm2: rufs
+
+real	0m30.491s
+user	0m12.661s
+sys	0m9.981s
+
+Benchmark bm20: nafs
+
+real	0m38.064s
+user	0m15.432s
+sys	0m14.334s
+
+Benchmark bm20: rufs
+
+real	0m41.316s
+user	0m18.215s
+sys	0m14.352s
+
+Benchmark bm21: nafs
+
+real	1m52.831s
+user	0m54.088s
+sys	0m45.375s
+
+Benchmark bm21: rufs
+
+real	1m40.495s
+user	1m2.321s
+sys	0m25.986s
+
+Benchmark bm22: nafs
+
+real	0m33.725s
+user	0m13.543s
+sys	0m12.140s
+
+Benchmark bm22: rufs
+
+real	0m37.786s
+user	0m18.584s
+sys	0m10.948s
+
+Benchmark bm23: nafs
+
+real	2m9.094s
+user	1m2.488s
+sys	0m53.380s
+
+Benchmark bm23: rufs
+
+real	2m20.810s
+user	1m17.185s
+sys	0m49.644s
+
+Benchmark bm24: nafs
+
+real	0m22.135s
+user	0m7.317s
+sys	0m7.604s
+
+Benchmark bm24: rufs
+
+real	0m24.257s
+user	0m9.325s
+sys	0m7.563s
+
+Benchmark bm3: nafs
+
+real	0m28.758s
+user	0m10.768s
+sys	0m10.395s
+
+Benchmark bm3: rufs
+
+real	0m31.192s
+user	0m13.042s
+sys	0m10.303s
+
+Benchmark bm4: nafs
+
+real	0m25.212s
+user	0m9.447s
+sys	0m8.330s
+
+Benchmark bm4: rufs
+
+real	0m34.593s
+user	0m17.239s
+sys	0m9.314s
+
+Benchmark bm5: nafs
+
+real	0m29.554s
+user	0m11.237s
+sys	0m10.576s
+
+Benchmark bm5: rufs
+
+real	0m32.845s
+user	0m13.564s
+sys	0m11.327s
+
+Benchmark bm6: nafs
+
+real	0m21.029s
+user	0m6.905s
+sys	0m7.071s
+
+Benchmark bm6: rufs
+
+real	0m21.651s
+user	0m7.127s
+sys	0m7.418s
+
+Benchmark bm7: nafs
+
+real	0m26.074s
+user	0m9.562s
+sys	0m9.059s
+
+Benchmark bm7: rufs
+
+real	0m27.907s
+user	0m11.152s
+sys	0m9.102s
+
+Benchmark bm8: nafs
+
+real	0m41.094s
+user	0m17.392s
+sys	0m15.320s
+
+Benchmark bm8: rufs
+
+real	0m46.282s
+user	0m21.395s
+sys	0m15.933s
+
+Benchmark bm9: nafs
+
+real	0m24.647s
+user	0m9.098s
+sys	0m8.207s
+
+Benchmark bm9: rufs
+
+real	0m25.602s
+user	0m9.166s
+sys	0m8.823s
+

@@ -1,0 +1,533 @@
+========================================
+Frgr - File Reading/Generating Resource
+Repeating 1000 times
+========================================
+
+==== Benchmark bm1: nafs ====
+Total
+Real: 6.341s
+User: 2.919s
+System: 3.145s
+
+Average
+Real: 0.006s
+User: 0.003s
+System: 0.003s
+
+==== Benchmark bm1: rufs ====
+Total
+Real: 8.593s
+User: 4.800s
+System: 3.335s
+
+Average
+Real: 0.009s
+User: 0.005s
+System: 0.003s
+
+==== Benchmark bm10: nafs ====
+Total
+Real: 20.724s
+User: 10.376s
+System: 9.301s
+
+Average
+Real: 0.021s
+User: 0.010s
+System: 0.009s
+
+==== Benchmark bm10: rufs ====
+Total
+Real: 23.690s
+User: 12.812s
+System: 9.519s
+
+Average
+Real: 0.024s
+User: 0.013s
+System: 0.010s
+
+==== Benchmark bm11: nafs ====
+Total
+Real: 4.351s
+User: 2.107s
+System: 2.028s
+
+Average
+Real: 0.004s
+User: 0.002s
+System: 0.002s
+
+==== Benchmark bm11: rufs ====
+Total
+Real: 6.378s
+User: 3.802s
+System: 2.286s
+
+Average
+Real: 0.006s
+User: 0.004s
+System: 0.002s
+
+==== Benchmark bm12: nafs ====
+Total
+Real: 7.413s
+User: 3.872s
+System: 3.306s
+
+Average
+Real: 0.007s
+User: 0.004s
+System: 0.003s
+
+==== Benchmark bm12: rufs ====
+Total
+Real: 9.725s
+User: 5.766s
+System: 3.488s
+
+Average
+Real: 0.010s
+User: 0.006s
+System: 0.003s
+
+==== Benchmark bm13: nafs ====
+Total
+Real: 7.759s
+User: 3.916s
+System: 3.573s
+
+Average
+Real: 0.008s
+User: 0.004s
+System: 0.004s
+
+==== Benchmark bm13: rufs ====
+Total
+Real: 10.539s
+User: 6.476s
+System: 3.453s
+
+Average
+Real: 0.011s
+User: 0.006s
+System: 0.003s
+
+==== Benchmark bm14: nafs ====
+Total
+Real: 6.624s
+User: 3.249s
+System: 2.967s
+
+Average
+Real: 0.007s
+User: 0.003s
+System: 0.003s
+
+==== Benchmark bm14: rufs ====
+Total
+Real: 16.014s
+User: 11.829s
+System: 3.350s
+
+Average
+Real: 0.016s
+User: 0.012s
+System: 0.003s
+
+==== Benchmark bm15: nafs ====
+Total
+Real: 18.892s
+User: 9.173s
+System: 8.727s
+
+Average
+Real: 0.019s
+User: 0.009s
+System: 0.009s
+
+==== Benchmark bm15: rufs ====
+Total
+Real: 23.415s
+User: 13.056s
+System: 8.989s
+
+Average
+Real: 0.023s
+User: 0.013s
+System: 0.009s
+
+==== Benchmark bm16: nafs ====
+Total
+Real: 3.168s
+User: 1.640s
+System: 1.404s
+
+Average
+Real: 0.003s
+User: 0.002s
+System: 0.001s
+
+==== Benchmark bm16: rufs ====
+Total
+Real: 4.166s
+User: 2.100s
+System: 1.911s
+
+Average
+Real: 0.004s
+User: 0.002s
+System: 0.002s
+
+==== Benchmark bm17: nafs ====
+Total
+Real: 10.894s
+User: 5.293s
+System: 5.174s
+
+Average
+Real: 0.011s
+User: 0.005s
+System: 0.005s
+
+==== Benchmark bm17: rufs ====
+Total
+Real: 12.971s
+User: 6.897s
+System: 5.368s
+
+Average
+Real: 0.013s
+User: 0.007s
+System: 0.005s
+
+==== Benchmark bm18: nafs ====
+Total
+Real: 36.439s
+User: 18.335s
+System: 16.195s
+
+Average
+Real: 0.036s
+User: 0.018s
+System: 0.016s
+
+==== Benchmark bm18: rufs ====
+Total
+Real: 43.286s
+User: 23.876s
+System: 17.121s
+
+Average
+Real: 0.043s
+User: 0.024s
+System: 0.017s
+
+==== Benchmark bm19: nafs ====
+Total
+Real: 5.358s
+User: 2.646s
+System: 2.531s
+
+Average
+Real: 0.005s
+User: 0.003s
+System: 0.003s
+
+==== Benchmark bm19: rufs ====
+Total
+Real: 6.317s
+User: 3.340s
+System: 2.727s
+
+Average
+Real: 0.006s
+User: 0.003s
+System: 0.003s
+
+==== Benchmark bm2: nafs ====
+Total
+Real: 11.571s
+User: 5.342s
+System: 5.674s
+
+Average
+Real: 0.012s
+User: 0.005s
+System: 0.006s
+
+==== Benchmark bm2: rufs ====
+Total
+Real: 13.382s
+User: 7.596s
+System: 4.917s
+
+Average
+Real: 0.013s
+User: 0.008s
+System: 0.005s
+
+==== Benchmark bm20: nafs ====
+Total
+Real: 20.589s
+User: 10.114s
+System: 9.507s
+
+Average
+Real: 0.021s
+User: 0.010s
+System: 0.010s
+
+==== Benchmark bm20: rufs ====
+Total
+Real: 23.586s
+User: 12.748s
+System: 9.566s
+
+Average
+Real: 0.024s
+User: 0.013s
+System: 0.010s
+
+==== Benchmark bm21: nafs ====
+Total
+Real: 88.309s
+User: 45.880s
+System: 38.071s
+
+Average
+Real: 0.088s
+User: 0.046s
+System: 0.038s
+
+==== Benchmark bm21: rufs ====
+Total
+Real: 79.475s
+User: 55.095s
+System: 20.421s
+
+Average
+Real: 0.079s
+User: 0.055s
+System: 0.020s
+
+==== Benchmark bm22: nafs ====
+Total
+Real: 16.820s
+User: 8.584s
+System: 7.245s
+
+Average
+Real: 0.017s
+User: 0.009s
+System: 0.007s
+
+==== Benchmark bm22: rufs ====
+Total
+Real: 20.813s
+User: 13.020s
+System: 6.671s
+
+Average
+Real: 0.021s
+User: 0.013s
+System: 0.007s
+
+==== Benchmark bm23: nafs ====
+Total
+Real: 110.493s
+User: 57.057s
+System: 48.424s
+
+Average
+Real: 0.110s
+User: 0.057s
+System: 0.048s
+
+==== Benchmark bm23: rufs ====
+Total
+Real: 122.705s
+User: 72.325s
+System: 44.149s
+
+Average
+Real: 0.123s
+User: 0.072s
+System: 0.044s
+
+==== Benchmark bm24: nafs ====
+Total
+Real: 5.268s
+User: 2.600s
+System: 2.533s
+
+Average
+Real: 0.005s
+User: 0.003s
+System: 0.003s
+
+==== Benchmark bm24: rufs ====
+Total
+Real: 7.367s
+User: 4.400s
+System: 2.711s
+
+Average
+Real: 0.007s
+User: 0.004s
+System: 0.003s
+
+==== Benchmark bm3: nafs ====
+Total
+Real: 11.716s
+User: 5.422s
+System: 5.861s
+
+Average
+Real: 0.012s
+User: 0.005s
+System: 0.006s
+
+==== Benchmark bm3: rufs ====
+Total
+Real: 14.004s
+User: 8.224s
+System: 5.151s
+
+Average
+Real: 0.014s
+User: 0.008s
+System: 0.005s
+
+==== Benchmark bm4: nafs ====
+Total
+Real: 8.426s
+User: 4.085s
+System: 3.957s
+
+Average
+Real: 0.008s
+User: 0.004s
+System: 0.004s
+
+==== Benchmark bm4: rufs ====
+Total
+Real: 17.323s
+User: 12.102s
+System: 4.385s
+
+Average
+Real: 0.017s
+User: 0.012s
+System: 0.004s
+
+==== Benchmark bm5: nafs ====
+Total
+Real: 12.701s
+User: 6.316s
+System: 5.779s
+
+Average
+Real: 0.013s
+User: 0.006s
+System: 0.006s
+
+==== Benchmark bm5: rufs ====
+Total
+Real: 15.942s
+User: 8.483s
+System: 6.567s
+
+Average
+Real: 0.016s
+User: 0.008s
+System: 0.007s
+
+==== Benchmark bm6: nafs ====
+Total
+Real: 4.252s
+User: 1.913s
+System: 2.127s
+
+Average
+Real: 0.004s
+User: 0.002s
+System: 0.002s
+
+==== Benchmark bm6: rufs ====
+Total
+Real: 5.165s
+User: 2.600s
+System: 2.339s
+
+Average
+Real: 0.005s
+User: 0.003s
+System: 0.002s
+
+==== Benchmark bm7: nafs ====
+Total
+Real: 9.473s
+User: 4.377s
+System: 4.520s
+
+Average
+Real: 0.009s
+User: 0.004s
+System: 0.005s
+
+==== Benchmark bm7: rufs ====
+Total
+Real: 10.921s
+User: 5.904s
+System: 4.532s
+
+Average
+Real: 0.011s
+User: 0.006s
+System: 0.005s
+
+==== Benchmark bm8: nafs ====
+Total
+Real: 24.184s
+User: 12.289s
+System: 10.643s
+
+Average
+Real: 0.024s
+User: 0.012s
+System: 0.011s
+
+==== Benchmark bm8: rufs ====
+Total
+Real: 29.215s
+User: 15.934s
+System: 11.642s
+
+Average
+Real: 0.029s
+User: 0.016s
+System: 0.012s
+
+==== Benchmark bm9: nafs ====
+Total
+Real: 8.094s
+User: 3.681s
+System: 3.936s
+
+Average
+Real: 0.008s
+User: 0.004s
+System: 0.004s
+
+==== Benchmark bm9: rufs ====
+Total
+Real: 8.526s
+User: 4.216s
+System: 3.905s
+
+Average
+Real: 0.009s
+User: 0.004s
+System: 0.004s
+
